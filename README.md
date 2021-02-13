@@ -1,5 +1,5 @@
-# Manual-GitHub
-Manual para el grupo sobre el funcionamiento de GitHub
+# Manual de GitHub – Coyuntura económica 
+## Sobre control de versiones
 
 
 # Material adicional
