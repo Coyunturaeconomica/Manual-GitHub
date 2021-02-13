@@ -4,6 +4,9 @@ Un control de versiones es un sistema que registra los cambios realizados en un 
 
 Dicho sistema te permite regresar a versiones anteriores de tus archivos, regresar a una versión anterior del proyecto completo, comparar cambios a lo largo del tiempo, ver quién modificó por última vez algo que pueda estar causando problemas, ver quién introdujo un problema y cuándo, y mucho más. Usar un VCS también significa generalmente que si arruinas o pierdes archivos, será posible recuperarlos fácilmente.
 
+-	**VCS locales**: Contener una simple base de datos, en la que se llevaba el registro de todos los cambios realizados a los archivos.
+
+
 ## Elaborar un README.md
 - [Sintaxis de escritura y formato básicos](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [Complete list of GitHub markdown emoji markup](https://gist.github.com/rxaviers/7360908)
