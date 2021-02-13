@@ -58,7 +58,7 @@ Luego de crear una rama y trabajar sobre ella puedes fusionar (merge) y la envia
 [rama]: https://github.com/Coyunturaeconomica/Manual-GitHub/blob/main/branch.png "rama"
 
 ## GitHub :octocat:
-
+GitHub es el mayor proveedor de alojamiento de repositorios Git, y es el punto de encuentro para que millones de desarrolladores colaboren en el desarrollo de sus proyectos.
 
 ## Elaborar un README.md :mortar_board:
 - [Sintaxis de escritura y formato básicos](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
