@@ -1,5 +1,5 @@
-# Manual de GitHub – Coyuntura económica 
-## Sobre control de versiones.
+# Manual de GitHub – Coyuntura económica :orange_book:
+## Sobre control de versiones :clipboard:
 Un control de versiones es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
 
 Dicho sistema te permite regresar a versiones anteriores de tus archivos, regresar a una versión anterior del proyecto completo, comparar cambios a lo largo del tiempo, ver quién modificó por última vez algo que pueda estar causando problemas, ver quién introdujo un problema y cuándo, y mucho más. Usar un VCS también significa generalmente que si arruinas o pierdes archivos, será posible recuperarlos fácilmente.
@@ -22,7 +22,7 @@ Dicho sistema te permite regresar a versiones anteriores de tus archivos, regres
 
 [distribuido]: https://github.com/Coyunturaeconomica/Manual-GitHub/blob/main/distribuidp.PNG "VCS distribuido"
 
-## Fundamentos de Git.
+## Fundamentos de Git :pencil:
 Git maneja sus datos como un conjunto de copias instantáneas de un sistema de archivos miniatura. Cada vez que confirmas un cambio, o guardas el estado de tu proyecto en Git, él básicamente toma una foto del aspecto de todos tus archivos en ese momento y guarda una referencia a esa copia instantánea. Para ser eficiente, si los archivos no se han modificado Git no almacena el archivo de nuevo, sino un enlace al archivo anterior idéntico que ya tiene almacenado. Git maneja sus datos como una secuencia de copias instantáneas.
 
 ![alt text][almacenamiento]
@@ -33,7 +33,7 @@ Git maneja sus datos como un conjunto de copias instantáneas de un sistema de a
 
 **Git tiene integridad**: Todo en Git es verificado mediante una suma de comprobación antes de ser almacenado, y es identificado a partir de ese momento mediante dicha suma. Esto significa que es imposible cambiar los contenidos de cualquier archivo o directorio sin que Git lo sepa.
 
-## Los tres estados.
+## Los tres estados :three:
 Git tiene tres estados principales en los que se pueden encontrar tus archivos: confirmado (committed), modificado (modified), y preparado (staged):
 -	**Confirmado**: Significa que los datos están almacenados de manera segura en tu base de datos local. 
 -	**Modificado**: Sgnifica que has modificado el archivo pero todavía no lo has confirmado a tu base de datos. 
@@ -49,7 +49,7 @@ El flujo de trabajo básico en Git es algo así:
 2.	Preparas los archivos, añadiéndolos a tu área de preparación.
 3.	Confirmas los cambios, lo que toma los archivos tal y como están en el área de preparación y almacena esa copia instantánea de manera permanente en tu directorio de Git.
 
-## Ramificaciones de Git.
+## Ramificaciones de Git :evergreen_tree:
 Cualquier sistema de control de versiones moderno tiene algún mecanismo para soportar el uso de ramas. Cuando hablamos de ramificaciones, significa que tú has tomado la rama principal de desarrollo (master) y a partir de ahí has continuado trabajando sin seguir la rama principal de desarrollo.
 Luego de crear una rama y trabajar sobre ella puedes fusionar (merge) y la enviar (push) a la rama de producción.
 
@@ -57,13 +57,13 @@ Luego de crear una rama y trabajar sobre ella puedes fusionar (merge) y la envia
 
 [rama]: https://github.com/Coyunturaeconomica/Manual-GitHub/blob/main/branch.png "rama"
 
-## GitHub.
+## GitHub :octocat:
 
 
-## Elaborar un README.md
+## Elaborar un README.md :mortar_board:
 - [Sintaxis de escritura y formato básicos](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [Complete list of GitHub markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
-## Material adicional
+## Material adicional :heavy_plus_sign:
 - [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 - [Pro Git](https://git-scm.com/book/en/v2)
