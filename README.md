@@ -60,6 +60,21 @@ Luego de crear una rama y trabajar sobre ella puedes fusionar (merge) y la envia
 ## GitHub :octocat:
 GitHub es el mayor proveedor de alojamiento de repositorios Git, y es el punto de encuentro para que millones de desarrolladores colaboren en el desarrollo de sus proyectos.
 
+1. **Conceptos**:
+   - **Fork**: 
+   - **Push**: Acceso de escritura.
+   - **Pull request**: Solicitudes de integración.
+
+2. **El Flujo de Trabajo en GitHub**:
+   - Se crea una rama a partir de master.
+   - Se realizan algunos commits hacia esa rama.
+   - Se envía esa rama hacia tu copia (_fork_) del proyecto.
+   - Abres un _Pull Request_ en GitHub.
+   - Se participa en la discusión asociada y, opcionalmente, se realizan nuevos commits.
+   - El propietario del proyecto original cierra el _Pull Request_, bien fusionando la rama con tus cambios o bien rechazándolos.
+
+
+
 ## Elaborar un README.md :mortar_board:
 - [Sintaxis de escritura y formato básicos](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [Complete list of GitHub markdown emoji markup](https://gist.github.com/rxaviers/7360908)
