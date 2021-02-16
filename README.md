@@ -61,7 +61,7 @@ Luego de crear una rama y trabajar sobre ella puedes fusionar (merge) y la envia
 GitHub es el mayor proveedor de alojamiento de repositorios Git, y es el punto de encuentro para que millones de desarrolladores colaboren en el desarrollo de sus proyectos.
 
 1. **Conceptos**:
-   - **Fork**: 
+   - **Fork**: Crear una copia completa del repositorio totalmente bajo tu control: se almacenará en tu cuenta y podrás escribir en él sin limitaciones.
    - **Push**: Acceso de escritura.
    - **Pull request**: Solicitudes de integración.
 
@@ -72,8 +72,6 @@ GitHub es el mayor proveedor de alojamiento de repositorios Git, y es el punto d
    - Abres un _Pull Request_ en GitHub.
    - Se participa en la discusión asociada y, opcionalmente, se realizan nuevos commits.
    - El propietario del proyecto original cierra el _Pull Request_, bien fusionando la rama con tus cambios o bien rechazándolos.
-
-
 
 ## Elaborar un README.md :mortar_board:
 - [Sintaxis de escritura y formato básicos](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
